@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm Lukas Lysychas</h1>
 <h3 align="center">A passionate developer who learned coding to build creatively. I am a goal-oriented software engineering graduate who likes to seek out challenges and find new and interesting ways to overcome them. Seeking to improve and learn new skills to develop innovative products for clients all around the globe.</h3>
 
