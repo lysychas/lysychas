@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lysychas&label=Profile%20views&color=0e75b6&style=flat" alt="lysychas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lysychas" alt="lysychas" /></a> </p>
-
 - 🔭 I’m currently working on [React Social App](https://github.com/lysychas/social-app)
 
 - 🌱 I’m currently learning **Socket.io**
