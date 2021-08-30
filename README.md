@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Socket.io**
 
-- 💬 Ask me about **React and/or Node**
+- 💬 Ask me about **React or Node**
 
 - 📫 How to reach me **lukas.lysychas@gmail.com**
 
